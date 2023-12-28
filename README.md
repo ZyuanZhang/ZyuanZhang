@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZyuanZhang</h1>
-<h3 align="center">A Bioinformatic learner from China.</h3>
+<h3 align="center">A Bioinformatics learner from China.</h3>
 
 - 🔭 I’m currently studying **Bioinformatics.**
 
