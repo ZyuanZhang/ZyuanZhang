@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm ZyuanZhang</h1>
+<h1 align="left">I'm ZyuanZhang</h1>
 <h2 align="left">Basic information:</h2>
 
 🔭 I’m currently studying **Bioinformatics.**
