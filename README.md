@@ -1,4 +1,4 @@
-<h1 align="left">Hi, there </h1>
+<h1 align="left">👏 Hi, there!</h1>
 
 🔭 I’m currently studying **Bioinformatics.**
 
